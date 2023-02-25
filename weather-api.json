@@ -1,0 +1,5 @@
+{"coord":{"lon":28.0436,"lat":-26.2023},
+"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations",
+"main":{"temp":302.05,"feels_like":301.33,"temp_min":300.91,"temp_max":302.57,"pressure":1010,"humidity":36},"visibility":10000,"wind":{"speed":1.03,"deg":160},"clouds":{"all":4},"dt":1677336481,
+"sys":{"type":2,"id":2005686,"country":"ZA","sunrise":1677297541,"sunset":1677343395},
+"timezone":7200,"id":993800,"name":"Johannesburg","cod":200}
